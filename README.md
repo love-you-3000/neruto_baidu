@@ -10,10 +10,8 @@
         然后我们再看每个url下的json数据长什么样：
 
 ![图1](https://raw.githubusercontent.com/love-you-3000/neruto_baidu/master/image_floder/1.jpg)
-
         可以发现每个图片的信息都存放在这些data中，然后我们打开看一下我们需要的数据在哪里：
-	
-
+![图2](https://raw.githubusercontent.com/love-you-3000/neruto_baidu/master/image_floder/2.jpg)
         可以发现我们要爬取的标题和图片链接在键名为fromPageTitleEnc和hoverURL中：
 	
 
