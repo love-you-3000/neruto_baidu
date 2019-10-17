@@ -48,6 +48,8 @@
 
 
 
-# 大学生一枚，记录一下学习过程，如果有看官乐意，赏个stars我也不介意，哈哈哈哈哈。
+# 大学生一枚，记录一下学习过程，如果有看官乐意，赏个star我也不介意，哈哈哈哈哈。
 ![图6](https://raw.githubusercontent.com/love-you-3000/neruto_baidu/master/image_floder/6.jpg)
+
+# 谢过各位大佬！
         
