@@ -21,6 +21,7 @@
 	首先需要新建一个项目，这里不再赘述。
 
 ### 构造请求
-![图4]()
-![图5]()
+![图4](https://raw.githubusercontent.com/love-you-3000/neruto_baidu/master/image_floder/4.jpg)
+![图5](https://raw.githubusercontent.com/love-you-3000/neruto_baidu/master/image_floder/5.jpg)
+![图6](https://raw.githubusercontent.com/love-you-3000/neruto_baidu/master/image_floder/6.jpg)
         
